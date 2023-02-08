@@ -34,16 +34,16 @@ This project is useful for students and institutions for getting the results in 
 ## Screenshot
 
 ### Homepage 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG">
+<img src="https://github.com/swayam-agrahari/Result_Management_System-/blob/master/images/screenshot01.png">
 
 ### Login 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot02.PNG">
+<img src="https://github.com/swayam-agrahari/Result_Management_System-/blob/master/images/screenshot02.png">
 
 ### Student Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot03.PNG">
+<img src="https://github.com/swayam-agrahari/Result_Management_System-/blob/master/images/screenshot03.png">
 
 ### Dashboard | Manage Student  
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG">
+<img src="https://github.com/swayam-agrahari/Result_Management_System-/blob/master/images/screenshot04.png">
 
 
 
